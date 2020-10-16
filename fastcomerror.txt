@@ -1,0 +1,4 @@
+  File "./fast_com_example_usage.py", line 5
+    print "Start speedtest against fast.com ..."
+                                               ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Start speedtest against fast.com ...")?
